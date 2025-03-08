@@ -4,7 +4,7 @@
 I am a passionate **Software Developer** and **Data Science Enthusiast** with a strong foundation in technology, nurtured by my upbringing with a computer technician. Currently, I am pursuing **Software Development** at **BYU-Idaho** and **Data Science** at **Midlands State University (MSU)**. My goal is to leverage technology to develop innovative solutions that enhance efficiency and user experience.
 
 ## 🛠️ Technical Skills
-- **Programming Languages**: Python, JavaScript, R
+- **Programming Languages**: Python, JavaScript, R, C#
 - **Web Development**: Node.js, Express.js, HTML, CSS, EJS
 - **Database Management**: PostgreSQL, MySQL, MongoDB
 - **Frameworks & Tools**: Flask, React, Bootstrap
