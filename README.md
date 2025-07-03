@@ -10,11 +10,14 @@ I am a passionate **Software Developer** and **Data Science Enthusiast** with a 
 - **Frameworks & Tools**: Flask, React, Bootstrap
 - **Version Control**: Git, GitHub
 - **Software Development**: Full-Stack Web Development, API Development, System Architecture
+ - **R Programming** for statistical computing and data analysis
+- Backend development expertise in **Python and Node.js**
 
 ## 📚 Ongoing Learning
 - Advanced **JavaScript** for full-stack web development
-- **R Programming** for statistical computing and data analysis
-- Backend development expertise in **Python and Node.js**
+- **WEB Services**
+- **Programming with Data Structures** with C#
+
 
 ## 💼 Professional Experience & Projects
 - **Work-Related Learning System**: Developed a comprehensive student and scheduling management system using **Python & Flask**.
