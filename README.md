@@ -16,7 +16,7 @@ I am a passionate **Software Developer** and **Data Science Enthusiast** with a 
 ## 📚 Ongoing Learning
 - Advanced **JavaScript** for full-stack web development
 - **WEB Services**
-- **Programming with Data Structures** with C#
+- **Programming with Data Structures** using C#
 
 
 ## 💼 Professional Experience & Projects
