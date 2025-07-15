@@ -27,6 +27,8 @@ I am a passionate **Software Developer** and **Data Science Enthusiast** with a 
 ## 🎯 Career Aspirations
 I am actively seeking **apprenticeship opportunities** for **May 2025 to August 2026**, aiming to enhance my industry knowledge, collaborate on impactful projects, and contribute to forward-thinking technological advancements.
 
+##
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
