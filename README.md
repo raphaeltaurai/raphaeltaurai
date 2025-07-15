@@ -13,20 +13,6 @@ I am a passionate **Software Developer** and **Data Science Enthusiast** with a 
  - **R Programming** for statistical computing and data analysis
 - Backend development expertise in **Python and Node.js**
 
-## 📚 Ongoing Learning
-- Advanced **JavaScript** for full-stack web development
-- **WEB Services**
-- **Programming with Data Structures** using C#
-
-
-## 💼 Professional Experience & Projects
-- **Work-Related Learning System**: Developed a comprehensive student and scheduling management system using **Python & Flask**.
-- **Business Website Development**: Designed and deployed multiple company websites using **Node.js, Express.js, and modern UI frameworks**.
-- **Vehicle Dealership Inventory System**: Engineered a dynamic inventory detail view using **Node.js, Express, and EJS**, optimizing data management and display.
-
-## 🎯 Career Aspirations
-I am actively seeking **apprenticeship opportunities** for **May 2025 to August 2026**, aiming to enhance my industry knowledge, collaborate on impactful projects, and contribute to forward-thinking technological advancements.
-
 ##
 
 <div align="left">
@@ -57,6 +43,22 @@ I am actively seeking **apprenticeship opportunities** for **May 2025 to August 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" alt="express logo"  />
   <img width="12" />
 </div>
+
+
+## 📚 Ongoing Learning
+- Advanced **JavaScript** for full-stack web development
+- **WEB Services**
+- **Programming with Data Structures** using C#
+
+
+## 💼 Professional Experience & Projects
+- **Work-Related Learning System**: Developed a comprehensive student and scheduling management system using **Python & Flask**.
+- **Business Website Development**: Designed and deployed multiple company websites using **Node.js, Express.js, and modern UI frameworks**.
+- **Vehicle Dealership Inventory System**: Engineered a dynamic inventory detail view using **Node.js, Express, and EJS**, optimizing data management and display.
+
+## 🎯 Career Aspirations
+I am actively seeking **apprenticeship opportunities** for **May 2025 to August 2026**, aiming to enhance my industry knowledge, collaborate on impactful projects, and contribute to forward-thinking technological advancements.
+
 
 ## 📬 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raphaelshawntaurai)
